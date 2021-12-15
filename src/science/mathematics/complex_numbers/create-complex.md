@@ -15,4 +15,4 @@ fn main() {
 }
 ```
 
-[`num::complex::Complex`]: https://autumnai.github.io/cuticula/num/complex/struct.Complex.html
+[`num::complex::Complex`]: https://docs.rs/num-complex/latest/num_complex/struct.Complex.html
